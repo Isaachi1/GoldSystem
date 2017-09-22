@@ -1,0 +1,12 @@
+C:\Users\aluno\Desktop\GoldSystem\GoldSystem\bin\Debug\GoldSystem.exe.config
+C:\Users\aluno\Desktop\GoldSystem\GoldSystem\bin\Debug\GoldSystem.exe
+C:\Users\aluno\Desktop\GoldSystem\GoldSystem\bin\Debug\GoldSystem.pdb
+C:\Users\aluno\Desktop\GoldSystem\GoldSystem\bin\Debug\Biblioteca.dll
+C:\Users\aluno\Desktop\GoldSystem\GoldSystem\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Desktop\GoldSystem\GoldSystem\bin\Debug\Biblioteca.pdb
+C:\Users\aluno\Desktop\GoldSystem\GoldSystem\obj\Debug\Gold System.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\GoldSystem\GoldSystem\obj\Debug\FormSingUp.GoldSystem.resources
+C:\Users\aluno\Desktop\GoldSystem\GoldSystem\obj\Debug\GoldSystem.Properties.Resources.resources
+C:\Users\aluno\Desktop\GoldSystem\GoldSystem\obj\Debug\Gold System.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\GoldSystem\GoldSystem\obj\Debug\GoldSystem.exe
+C:\Users\aluno\Desktop\GoldSystem\GoldSystem\obj\Debug\GoldSystem.pdb
