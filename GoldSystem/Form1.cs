@@ -44,7 +44,7 @@ namespace FormSingUp
 
         public void mouse_Down(object sender, MouseEventArgs e)
         {
-            this._dragging = true;
+            this._dragging = false;
             this._start_point = new Point(e.X, e.Y);
         }
 
